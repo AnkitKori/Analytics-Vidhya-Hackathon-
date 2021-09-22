@@ -1,6 +1,6 @@
 # Analytics-Vidhya-Hackathon-
 
-![](images/bignart1-thumbnail-1200x1200)
+![](bignart1-thumbnail-1200x1200.png)
 
 Objective : 
 - The aim is to build a predictive model and predict the sales of each product at a particular outlet.
